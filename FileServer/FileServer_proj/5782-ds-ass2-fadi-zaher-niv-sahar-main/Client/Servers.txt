@@ -1,0 +1,4 @@
+HOST_server1 127.0.0.1:5000
+HOST_server2 127.0.0.1:6000
+HOST_server3 127.0.0.1:7000
+HOST_server4 127.0.0.1:8000
