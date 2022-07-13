@@ -16,17 +16,6 @@ Server Side:
 - Fadi : 26
 - Niv : 29
 
-**Include the problem we ran into:**
-
-Client Side:
- - Niv : 17
- - Fadi : 21
-
-Server Side: 
-- Fadi : 35
-- Niv : 38
-- Michael: 1 (for help)
-
 Git README and side work:
 - Fadi : 3
 - Niv : 2
@@ -36,7 +25,8 @@ Assignment 2 in distributed systems course - 4th year in software engineering.
 
 # Project architecture
 
-We took the project from the previous assignment, and made some changes to the projects architecture.
+We took the project we made from assignment 1 and made some changes to the projects architecture.
+Link for Assignment 1: "https://github.com/nivsahar2/5782-ds-ass1-fadi-zaher-niv-sahar"
 
 Server:
 
